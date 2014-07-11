@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "info.as3dev.jonchat"
+        versionCode = "1" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Jon's chat</name>
+
+    <description>
+        An example for angular and firebase. 
+    </description>
+
+    <author href="http://asw3.com" email="support@phonegap.com">
+        Jon Goodey
+    </author>
+
+    <gap:platform name="android" />
+    <!-- <gap:platform name="ios" />
+    <gap:platform name="winphone" /> -->
+    
+    </widget>
